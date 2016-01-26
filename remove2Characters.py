@@ -1,4 +1,7 @@
-import re
+#This code is used to clean the books and get them read for importation
+# Build and desinged by Edwin Akabuilo
+# 26th January 2016
+# Version 0.0001
 #Get the test file name 
 fname = "out.txt"
 try:
