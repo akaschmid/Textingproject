@@ -1,3 +1,7 @@
+#This code is used to clean the books and get them read for importation
+# Build and desinged by Edwin Akabuilo
+# 26th January 2016
+# Version 0.0001
 # Textingproject
 # Important links 
 # 1 https://meta-toolkit.github.io/meta/doxygen/namespaces.html
